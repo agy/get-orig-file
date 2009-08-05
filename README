@@ -1,0 +1,2 @@
+Uses apt and dpkg to download the original file included in a deb package.
+It's horrible but works for me.
